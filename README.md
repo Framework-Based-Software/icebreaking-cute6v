@@ -26,5 +26,5 @@
 
 ## GitHub Profile
 
-You can view my personalized GitHub profile  [(https://github.com/cute6v)]
+You can view my personalized GitHub profile  [https://github.com/cute6v]
 
